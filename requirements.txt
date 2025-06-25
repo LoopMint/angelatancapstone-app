@@ -1,1 +1,8 @@
 streamlit
+importnb
+pandas
+numpy
+scikit-learn
+matplotlib
+tensorflow
+reportlab
