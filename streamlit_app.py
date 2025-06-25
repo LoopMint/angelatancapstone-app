@@ -1,6 +1,10 @@
-import streamlit as st
-
-st.title("🎈 My new app")
+st.title("Capstone Project: QS Ranking Analysis 2025")
 st.write(
-    "Let's start building! For help and inspiration, head over to [docs.streamlit.io](https://docs.streamlit.io/)."
+    "Data source: Kaggle (https://www.kaggle.com/datasets/darrylljk/worlds-best-universities-qs-rankings-2025)."
 )
+
+import streamlit as st
+import CP_Read_CSV
+
+# Call functions like:
+CP_Read_CSV.load_dataset()
