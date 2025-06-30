@@ -4,5 +4,5 @@ pandas
 numpy
 scikit-learn
 matplotlib
-tensorflow
+tensorflow==2.13.0
 reportlab
