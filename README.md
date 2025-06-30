@@ -1,4 +1,4 @@
-# 🎈 Blank app template
+# 🎈 Streamlit App - 2025 QS University Ranking AI Dashboard
 
 A simple Streamlit app template for you to modify!
 
